@@ -4,3 +4,35 @@ ffmpeg -version
 
 
 estas dos lines debes pegarlas en la terminal de vs code y luego hacerlas correr
+
+
+https://www.gyan.dev/ffmpeg/builds/
+
+eso he instal la primer version de esto uwu
+
+ffmpeg-git-essentials.7z
+
+deberia llamarse asi
+
+
+🪟 En Windows
+Ve a esta página y descarga FFmpeg (versión estática):
+👉 https://www.gyan.dev/ffmpeg/builds/
+
+Extrae la carpeta y copia la ruta donde está el archivo ffmpeg.exe (por ejemplo: C:\ffmpeg\bin).
+
+Agrega esa ruta a tu variable de entorno PATH:
+
+Abre el menú de inicio y busca "Variables de entorno".
+
+Edita la variable del sistema llamada Path.
+
+Haz clic en "Nuevo" y pega ahí la ruta del bin de FFmpeg.
+
+Abre una nueva terminal y verifica que funcione:
+
+
+
+
+
+nota: si no sabes que chucha hacer pregunta gpt, no hay pena uwu ni yo lo entiendo por completo
