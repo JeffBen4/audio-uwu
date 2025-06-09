@@ -1,0 +1,6 @@
+pip install speechrecognition pydub gTTS playsound
+
+ffmpeg -version
+
+
+estas dos lines debes pegarlas en la terminal de vs code y luego hacerlas correr

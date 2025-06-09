@@ -1,0 +1,9 @@
+from pydub import AudioSegment
+from gtts import gTTS
+import speech_recognition as sr
+from playsound import playsound
+
+print("Todo está instalado correctamente 😊")
+
+
+necesitas correr este codigo para ver si instalaste todas las librerias de forma correcta
